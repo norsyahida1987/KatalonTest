@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Scenario 3</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>32a66c03-f545-4b24-9613-79e138129437</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>f7757e97-b71f-417f-8005-75443ae3da66</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>7429cb91-50d0-4bc6-8cf9-05e306ed6ae3</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>
